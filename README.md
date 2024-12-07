@@ -109,7 +109,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <img 
       align="left" 
