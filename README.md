@@ -99,9 +99,4 @@
 
 ### 📊 Statistics
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanael-Farias&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
+
