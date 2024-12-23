@@ -52,6 +52,14 @@
 
 <img 
     align="left" 
+    alt="Angular" 
+    title="Angular" 
+    width="30px"
+    src="https://images.seeklogo.com/logo-png/50/2/angular-icon-logo-png_seeklogo-507324.png?v=638701088710000000" />
+
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
