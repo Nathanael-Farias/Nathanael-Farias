@@ -29,11 +29,11 @@
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img 
     align="left" 
@@ -42,6 +42,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 <img 
     align="left" 
     alt="TypeScript" 
@@ -52,27 +61,19 @@
 
 <img 
     align="left" 
-    alt="Angular" 
-    title="Angular" 
-    width="30px"
-    src="https://images.seeklogo.com/logo-png/50/2/angular-icon-logo-png_seeklogo-507324.png?v=638701088710000000" />
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular" 
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://images.seeklogo.com/logo-png/50/2/angular-icon-logo-png_seeklogo-507324.png?v=638701088710000000" />
 
 <br/>
 <br/>
