@@ -27,30 +27,16 @@
 
 ###  Front-end
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+
 
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
+    alt="Angular" 
+    title="Angular" 
+    width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
+    src="https://img.icons8.com/fluent/512/angularjs.png" />
 <img 
     align="left" 
     alt="TypeScript" 
@@ -61,11 +47,11 @@
 
 <img 
     align="left" 
-    alt="Angular" 
-    title="Angular" 
-    width="30px"
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://images.seeklogo.com/logo-png/50/2/angular-icon-logo-png_seeklogo-507324.png?v=638701088710000000" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <br/>
 <br/>
