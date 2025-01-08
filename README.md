@@ -90,6 +90,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanael-farias&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanael-farias&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=4" 
   />
+
 
